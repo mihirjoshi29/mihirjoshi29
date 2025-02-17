@@ -10,7 +10,7 @@
 📫 **Contact me:**
 - Email: mihirjoshi29@gmail.com
 - LinkedIn: [Mihir Joshi](https://www.linkedin.com/in/mihir-joshi-48bb91218/)
-h3 align="left">Connect with me:</h3>
+<h3> align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
