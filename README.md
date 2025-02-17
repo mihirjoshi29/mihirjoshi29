@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 👨🏻‍💻 Working as Software Development Engineer at Wells Fargo.
-- 🎓 CS Graduate (2019-23) from Delhi Technological University
-- 💼 Seeking opportunities in software development and algorithm design
+- 🎓 CS Graduate (2019-23) from Delhi Technological University.
+- 💼 Seeking opportunities in software development and algorithm design.
 
 📫 **Contact me:**
 - Email: mihirjoshi29@gmail.com
